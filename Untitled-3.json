@@ -70,5 +70,11 @@
     "latitude": -16.76266473732503,
     "longitude": -49.23936598272576,
     "name": "GOIANIA - GO"
+  },
+ {
+    "key": "MG07",
+    "latitude": -37.05793737301595,
+    "longitude": -10.928192697846733,
+    "name": "ARACAJU - SE",
   }
 ]
