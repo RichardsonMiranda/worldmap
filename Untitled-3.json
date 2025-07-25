@@ -1,3 +1,4 @@
+
 [
   {
     "key": "MG24",
@@ -10,59 +11,5 @@
     "latitude": -3.091260665353382,
     "longitude": -59.94904268465602,
     "name": "MANAUS - AM"
-  },
-  {
-    "key": "MG15",
-    "latitude": -12.97741185250066,
-    "longitude": -38.47934371427795,
-    "name": "SALVADOR - BA"
-  },
-  {
-    "key": "MG16",
-    "latitude": -13.007066765086304,
-    "longitude": -38.46119349206377,
-    "name": "SALVADOR - BA"
-  },
-  {
-    "key": "MG17",
-    "latitude": -12.232059181447694,
-    "longitude": -38.951967976719814,
-    "name": "FEIRA DE SANTANA - BA"
-  },
-  {
-    "key": "MG39",
-    "latitude": -14.887493294937022,
-    "longitude": -40.844318657671984,
-    "name": "VITÓRIA DA CONQUISTA - BA"
-  },
-  {
-    "key": "MG48",
-    "latitude": -12.905481090316169,
-    "longitude": -38.353168411506836,
-    "name": "SALVADOR - BA"
-  },
-  {
-    "key": "MG04",
-    "latitude": -3.7428041631240614,
-    "longitude": -38.5111461,
-    "name": "FORTALEZA - CE"
-  },
-  {
-    "key": "MG25",
-    "latitude": -3.8234648158921063,
-    "longitude": -38.57837043009282,
-    "name": "FORTALEZA - CE"
-  },
-  {
-    "key": "MG03",
-    "latitude": -15.805214475069585,
-    "longitude": -47.95935074603188,
-    "name": "BRASÍLIA - DF"
-  },
-  {
-    "key": "PG01",
-    "latitude": -20.348261916374238,
-    "longitude": -40.32027820370387,
-    "name": "VILA VELHA - ES"
   }
 ]
