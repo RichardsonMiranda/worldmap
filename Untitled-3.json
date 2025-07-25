@@ -1,137 +1,74 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG24",
-        "name": "MACEIO - AL"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-35.71661345767199, -9.628236270465626]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG50",
-        "name": "MANAUS - AM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-59.94904268465602, -3.091260665353382]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG15",
-        "name": "SALVADOR - BA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-38.47934371427795, -12.97741185250066]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG16",
-        "name": "SALVADOR - BA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-38.46119349206377, -13.007066765086304]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG17",
-        "name": "FEIRA DE SANTANA - BA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-38.951967976719814, -12.232059181447694]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG39",
-        "name": "VITÓRIA DA CONQUISTA - BA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-40.844318657671984, -14.887493294937022]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG48",
-        "name": "SALVADOR - BA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-38.353168411506836, -12.905481090316169]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG04",
-        "name": "FORTALEZA - CE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-38.5111461, -3.7428041631240614]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG25",
-        "name": "FORTALEZA - CE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-38.57837043009282, -3.8234648158921063]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG03",
-        "name": "BRASÍLIA - DF"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-47.95935074603188, -15.805214475069585]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "PG01",
-        "name": "VILA VELHA - ES"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-40.32027820370387, -20.348261916374238]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "key": "MG22",
-        "name": "VILA VELHA - ES"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-16.763445479330834, -49.239365981977414]
-      }
-    }
-  ]
-}
+[
+  {
+    "key": "MG24",
+    "latitude": -9.628236270465626,
+    "longitude": -35.71661345767199,
+    "name": "MACEIO - AL"
+  },
+  {
+    "key": "MG50",
+    "latitude": -3.091260665353382,
+    "longitude": -59.94904268465602,
+    "name": "MANAUS - AM"
+  },
+  {
+    "key": "MG15",
+    "latitude": -12.97741185250066,
+    "longitude": -38.47934371427795,
+    "name": "SALVADOR - BA"
+  },
+  {
+    "key": "MG16",
+    "latitude": -13.007066765086304,
+    "longitude": -38.46119349206377,
+    "name": "SALVADOR - BA"
+  },
+  {
+    "key": "MG17",
+    "latitude": -12.232059181447694,
+    "longitude": -38.951967976719814,
+    "name": "FEIRA DE SANTANA - BA"
+  },
+  {
+    "key": "MG39",
+    "latitude": -14.887493294937022,
+    "longitude": -40.844318657671984,
+    "name": "VITÓRIA DA CONQUISTA - BA"
+  },
+  {
+    "key": "MG48",
+    "latitude": -12.905481090316169,
+    "longitude": -38.353168411506836,
+    "name": "SALVADOR - BA"
+  },
+  {
+    "key": "MG04",
+    "latitude": -3.7428041631240614,
+    "longitude": -38.5111461,
+    "name": "FORTALEZA - CE"
+  },
+  {
+    "key": "MG25",
+    "latitude": -3.8234648158921063,
+    "longitude": -38.57837043009282,
+    "name": "FORTALEZA - CE"
+  },
+  {
+    "key": "MG03",
+    "latitude": -15.805214475069585,
+    "longitude": -47.95935074603188,
+    "name": "BRASÍLIA - DF"
+  },
+  {
+    "key": "PG01",
+    "latitude": -20.348261916374238,
+    "longitude": -40.32027820370387,
+    "name": "VILA VELHA - ES"
+  },
+  {
+    "key": "MG22",
+    "latitude": -16.76266473732503,
+    "longitude": -49.23936598272576,
+    "name": "GOIANIA - GO"
+  }
+]
