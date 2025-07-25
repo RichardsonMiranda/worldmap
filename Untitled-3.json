@@ -76,5 +76,11 @@
     "latitude": -10.928192697846733,
     "longitude": -37.05795883068793,
     "name": "ARACAJU - SE"
+  };
+ {
+    "key": "LINK-PG07",
+    "latitude": -20.310767517929502,
+    "longitude": -40.31706271058314,
+    "name": "VITÓRIA - ES"
   }
 ]
