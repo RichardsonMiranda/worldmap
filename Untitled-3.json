@@ -121,6 +121,17 @@
         "type": "Point",
         "coordinates": [-40.32027820370387, -20.348261916374238]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "key": "MG22",
+        "name": "VILA VELHA - ES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.76266473732503, -49.23936598272576]
+      }
     }
   ]
 }
