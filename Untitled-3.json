@@ -1,78 +1,78 @@
 [
   {
-    "key": "LINK-MG24",
+    "key": "MG24",
     "latitude": -9.628236270465626,
     "longitude": -35.71661345767199,
     "name": "MACEIO - AL"
   },
   {
-    "key": "LINK-MG50",
+    "key": "MG50",
     "latitude": -3.091260665353382,
     "longitude": -59.94904268465602,
     "name": "MANAUS - AM"
   },
   {
-    "key": "LINK-MG15",
+    "key": "MG15",
     "latitude": -12.97741185250066,
     "longitude": -38.47934371427795,
     "name": "SALVADOR - BA"
   },
   {
-    "key": "LINK-MG16",
+    "key": "MG16",
     "latitude": -13.007066765086304,
     "longitude": -38.46119349206377,
     "name": "SALVADOR - BA"
   },
   {
-    "key": "LINK-MG17",
+    "key": "MG17",
     "latitude": -12.232059181447694,
     "longitude": -38.951967976719814,
     "name": "FEIRA DE SANTANA - BA"
   },
   {
-    "key": "LINK-MG39",
+    "key": "MG39",
     "latitude": -14.887493294937022,
     "longitude": -40.844318657671984,
     "name": "VITÓRIA DA CONQUISTA - BA"
   },
   {
-    "key": "LINK-MG48",
+    "key": "MG48",
     "latitude": -12.905481090316169,
     "longitude": -38.353168411506836,
     "name": "SALVADOR - BA"
   },
   {
-    "key": "LINK-MG04",
+    "key": "MG04",
     "latitude": -3.7428041631240614,
     "longitude": -38.5111461,
     "name": "FORTALEZA - CE"
   },
   {
-    "key": "LINK-MG25",
+    "key": "MG25",
     "latitude": -3.8234648158921063,
     "longitude": -38.57837043009282,
     "name": "FORTALEZA - CE"
   },
   {
-    "key": "LINK-MG03",
+    "key": "MG03",
     "latitude": -15.805214475069585,
     "longitude": -47.95935074603188,
     "name": "BRASÍLIA - DF"
   },
   {
-    "key": "LINK-PG01",
+    "key": "PG01",
     "latitude": -20.348261916374238,
     "longitude": -40.32027820370387,
     "name": "VILA VELHA - ES"
   },
   {
-    "key": "LINK-MG22",
+    "key": "MG22",
     "latitude": -16.76266473732503,
     "longitude": -49.23936598272576,
     "name": "GOIANIA - GO"
   },
  {
-    "key": "LINK-MG07",
+    "key": "MG07",
     "latitude": -10.928192697846733,
     "longitude": -37.05795883068793,
     "name": "ARACAJU - SE"
