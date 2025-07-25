@@ -82,5 +82,59 @@
     "latitude": -20.310767517929502,
     "longitude": -40.31706271058314,
     "name": "VITÓRIA - ES"
+  };
+{
+    "key": "LINK-PG02",
+    "latitude": -20.337699280007605,
+    "longitude": -40.39204369735309,
+    "name": "CARIACICA - ES"
+  };
+{
+    "key": "LINK-PG04",
+    "latitude": -19.352878909207178,
+    "longitude": -40.06327076348977,
+    "name": "LINHARES - ES"
+  };
+{
+    "key": "LINK-PG05",
+    "latitude": -20.827674900611427,
+    "longitude": -41.15784955767198,
+    "name": "CACHOEIRO DE ITAPEMIRIM - ES"
+  };
+{
+    "key": "LINK-PG06",
+    "latitude": -20.217600191559736,
+    "longitude": -40.269632864546715,
+    "name": "SERRA - ES"
+  };
+{
+    "key": "LINK-PG07",
+    "latitude": -20.31073733265635,
+    "longitude": -40.317073439419126,
+    "name": "VITÓRIA - ES"
+  };
+{
+    "key": "LINK-MG27",
+    "latitude": -16.699601414513275,
+    "longitude": -49.26876316071413,
+    "name": "GOIANIA - GO"
+  };
+{
+    "key": "LINK-MG36",
+    "latitude": -16.729951075880667,
+    "longitude": -49.263891639814354,
+    "name": "GOIANIA - GO"
+  };
+{
+    "key": "LINK-MG32",
+    "latitude": -2.57390999760949,
+    "longitude": -44.24290535582004,
+    "name": "SÃO LUIZ - MA"
+  };
+{
+    "key": "LINK-MG60",
+    "latitude": -5.534524611127679,
+    "longitude": -47.4709761411045,
+    "name": "IMPERATRIZ - MA"
   }
 ]
