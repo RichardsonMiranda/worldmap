@@ -1,15 +1,14 @@
-
 [
   {
-    "key": "MG",
-    "latitude": -9.628236270465626,
-    "longitude": -35.71661345767199,
-    "name": "MACEIO - AL"
+    "key": "SP",
+    "latitude": -23.22,
+    "longitude": -46.87,
+    "name": "Jundiaí - SP"
   },
   {
-   "key": "MG",
-    "latitude": -3.091260665353382,
-    "longitude": -59.94904268465602,
-    "name": "MANAUS - AM"
+    "key": "MG",
+    "latitude": -19.94,
+    "longitude": -43.93,
+    "name": "BELO HORIZONTE - MG"
   }
 ]
