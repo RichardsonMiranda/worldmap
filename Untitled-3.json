@@ -3,138 +3,501 @@
     "key": "LINK-MG24",
     "latitude": -9.628236270465626,
     "longitude": -35.71661345767199,
-    "name": "MACEIO - AL"
+    "name": "LINK-MG24, MACEIO - AL"
   },
   {
     "key": "LINK-MG50",
     "latitude": -3.091260665353382,
     "longitude": -59.94904268465602,
-    "name": "MANAUS - AM"
+    "name": "LINK-MG50, MANAUS - AM"
   },
   {
     "key": "LINK-MG15",
     "latitude": -12.97741185250066,
     "longitude": -38.47934371427795,
-    "name": "SALVADOR - BA"
+    "name": "LINK-MG15, SALVADOR - BA"
   },
   {
     "key": "LINK-MG16",
     "latitude": -13.007066765086304,
     "longitude": -38.46119349206377,
-    "name": "SALVADOR - BA"
+    "name": "LINK-MG16, SALVADOR - BA"
   },
   {
     "key": "LINK-MG17",
     "latitude": -12.232059181447694,
     "longitude": -38.951967976719814,
-    "name": "FEIRA DE SANTANA - BA"
+    "name": "LINK-MG17, FEIRA DE SANTANA - BA"
   },
   {
     "key": "LINK-MG39",
     "latitude": -14.887493294937022,
     "longitude": -40.844318657671984,
-    "name": "VITÓRIA DA CONQUISTA - BA"
+    "name": "LINK-MG39, VITÓRIA DA CONQUISTA - BA"
   },
   {
     "key": "LINK-MG48",
     "latitude": -12.905481090316169,
     "longitude": -38.353168411506836,
-    "name": "SALVADOR - BA"
+    "name": "LINK-MG48, SALVADOR - BA"
   },
   {
     "key": "LINK-MG04",
     "latitude": -3.7428041631240614,
     "longitude": -38.5111461,
-    "name": "FORTALEZA - CE"
+    "name": "LINK-MG04, FORTALEZA - CE"
   },
   {
     "key": "LINK-MG25",
     "latitude": -3.8234648158921063,
     "longitude": -38.57837043009282,
-    "name": "FORTALEZA - CE"
+    "name": "LINK-MG25, FORTALEZA - CE"
   },
   {
     "key": "LINK-MG03",
     "latitude": -15.805214475069585,
     "longitude": -47.95935074603188,
-    "name": "BRASÍLIA - DF"
+    "name": "LINK-MG03, BRASÍLIA - DF"
   },
   {
     "key": "LINK-PG01",
     "latitude": -20.348261916374238,
     "longitude": -40.32027820370387,
-    "name": "VILA VELHA - ES"
+    "name": "LINK-PG01, VILA VELHA - ES"
   },
   {
     "key": "LINK-MG22",
     "latitude": -16.76266473732503,
     "longitude": -49.23936598272576,
-    "name": "GOIANIA - GO"
+    "name": "LINK-MG22, GOIANIA - GO"
   },
  {
     "key": "LINK-MG07",
     "latitude": -10.928192697846733,
     "longitude": -37.05795883068793,
-    "name": "ARACAJU - SE"
-  },
- {
-    "key": "LINK-PG07",
-    "latitude": -20.310767517929502,
-    "longitude": -40.31706271058314,
-    "name": "VITÓRIA - ES"
+    "name": "LINK-MG07, ARACAJU - SE"
   },
 {
     "key": "LINK-PG02",
     "latitude": -20.337699280007605,
     "longitude": -40.39204369735309,
-    "name": "CARIACICA - ES"
+    "name": "LINK-PG02, CARIACICA - ES"
   },
 {
     "key": "LINK-PG04",
     "latitude": -19.352878909207178,
     "longitude": -40.06327076348977,
-    "name": "LINHARES - ES"
+    "name": "LINK-PG04, LINHARES - ES"
   },
 {
     "key": "LINK-PG05",
     "latitude": -20.827674900611427,
     "longitude": -41.15784955767198,
-    "name": "CACHOEIRO DE ITAPEMIRIM - ES"
+    "name": "LINK-PG05, CACHOEIRO DE ITAPEMIRIM - ES"
   },
 {
     "key": "LINK-PG06",
     "latitude": -20.217600191559736,
     "longitude": -40.269632864546715,
-    "name": "SERRA - ES"
+    "name": "LINK-PG06, SERRA - ES"
   },
 {
     "key": "LINK-PG07",
     "latitude": -20.31073733265635,
     "longitude": -40.317073439419126,
-    "name": "VITÓRIA - ES"
+    "name": "LINK-PG07, VITÓRIA - ES"
   },
 {
     "key": "LINK-MG27",
     "latitude": -16.699601414513275,
     "longitude": -49.26876316071413,
-    "name": "GOIANIA - GO"
+    "name": "LINK-MG27, GOIANIA - GO"
   },
 {
     "key": "LINK-MG36",
     "latitude": -16.729951075880667,
     "longitude": -49.263891639814354,
-    "name": "GOIANIA - GO"
+    "name": "LINK-MG36, GOIANIA - GO"
   },
 {
     "key": "LINK-MG32",
     "latitude": -2.57390999760949,
     "longitude": -44.24290535582004,
-    "name": "SÃO LUIZ - MA"
+    "name": "LINK-MG32, SÃO LUIZ - MA"
   },
 {
     "key": "LINK-MG60",
     "latitude": -5.534524611127679,
     "longitude": -47.4709761411045,
-    "name": "IMPERATRIZ - MA"
+    "name": "LINK-MG60, IMPERATRIZ - MA"
+  },
+
+  {
+    "key": "LINK-MG02",
+    "latitude": -19.9323,
+    "longitude": -43.9357,
+    "name": "LINK-MG02, BELO HORIZONTE - MG"
+  },
+  {
+    "key": "LINK-MG34",
+    "latitude": -18.9184,
+    "longitude": -48.2772,
+    "name": "LINK-MG34, UBERLÂNDIA - MG"
+  },
+  {
+    "key": "LINK-MG38",
+    "latitude": -19.7686,
+    "longitude": -44.0805,
+    "name": "LINK-MG38, RIBEIRÃO DAS NEVES - MG"
+  },
+  {
+    "key": "LINK-MG41",
+    "latitude": -19.9334,
+    "longitude": -43.9579,
+    "name": "LINK-MG41, BELO HORIZONTE - MG"
+  },
+  {
+    "key": "LINK-MG53",
+    "latitude": -19.7551,
+    "longitude": -47.9385,
+    "name": "LINK-MG53, UBERABA - MG"
+  },
+  {
+    "key": "LINK-MG74",
+    "latitude": -18.5807,
+    "longitude": -46.5206,
+    "name": "LINK-MG74, PATOS DE MINAS - MG"
+  },
+  {
+    "key": "LINK-MG21",
+    "latitude": -20.4427,
+    "longitude": -54.6469,
+    "name": "LINK-MG21, CAMPO GRANDE - MS"
+  },
+  {
+    "key": "LINK-MG08",
+    "latitude": -15.601,
+    "longitude": -56.0976,
+    "name": "LINK-MG08, CUIABÁ - MT"
+  },
+  {
+    "key": "LINK-MG52",
+    "latitude": -16.4672,
+    "longitude": -54.6377,
+    "name": "LINK-MG52, RONDONÓPOLIS - MT"
+  },
+  {
+    "key": "LINK-MG57",
+    "latitude": -11.8686,
+    "longitude": -55.5039,
+    "name": "LINK-MG57, SINOP - MT"
+  },
+  {
+    "key": "LINK-MG26",
+    "latitude": -1.455,
+    "longitude": -48.5039,
+    "name": "LINK-MG26, BELÉM - PA"
+  },
+  {
+    "key": "LINK-MG59",
+    "latitude": -1.455,
+    "longitude": -48.5039,
+    "name": "LINK-MG59, BELÉM - PA"
+  },
+  {
+    "key": "LINK-MG43",
+    "latitude": -7.1046,
+    "longitude": -34.8761,
+    "name": "LINK-MG43, JOÃO PESSOA - PB"
+  },
+  {
+    "key": "LINK-MG20",
+    "latitude": -8.1498,
+    "longitude": -35.0331,
+    "name": "LINK-MG20, JABOATÃO DOS GUARARAPES - PE"
+  },
+  {
+    "key": "LINK-MG23",
+    "latitude": -8.0543,
+    "longitude": -34.9053,
+    "name": "LINK-MG23, RECIFE - PE"
+  },
+  {
+    "key": "LINK-MG40",
+    "latitude": -9.3987,
+    "longitude": -40.5027,
+    "name": "LINK-MG40, PETROLINA - PE"
+  },
+  {
+    "key": "LINK-MG33",
+    "latitude": -5.0985,
+    "longitude": -42.8013,
+    "name": "LINK-MG33, TERESINA - PI"
+  },
+  {
+    "key": "LINK-MG13",
+    "latitude": -25.4628,
+    "longitude": -49.2961,
+    "name": "LINK-MG13, CURITIBA - PR"
+  },
+  {
+    "key": "LINK-MG37",
+    "latitude": -25.4246,
+    "longitude": -49.2607,
+    "name": "LINK-MG37, CURITIBA - PR"
+  },
+  {
+    "key": "LINK-MG46",
+    "latitude": -23.3047,
+    "longitude": -51.1623,
+    "name": "LINK-MG46, LONDRINA - PR"
+  },
+  {
+    "key": "LINK-MG49",
+    "latitude": -23.4203,
+    "longitude": -51.9346,
+    "name": "LINK-MG49, MARINGÁ - PR"
+  },
+  {
+    "key": "LINK-MG63",
+    "latitude": -24.9539,
+    "longitude": -53.4591,
+    "name": "LINK-MG63, CASCAVEL - PR"
+  },
+  {
+    "key": "LINK-MG65",
+    "latitude": -25.0919,
+    "longitude": -50.1612,
+    "name": "LINK-MG65, PONTA GROSSA - PR"
+  },
+  {
+    "key": "LINK-MG05",
+    "latitude": -22.6755,
+    "longitude": -43.3046,
+    "name": "LINK-MG05, DUQUE DE CAXIAS - RJ"
+  },
+  {
+    "key": "LINK-MG14",
+    "latitude": -22.8832,
+    "longitude": -43.1033,
+    "name": "LINK-MG14, NITERÓI - RJ"
+  },
+  {
+    "key": "LINK-MG18",
+    "latitude": -23.0006,
+    "longitude": -43.3656,
+    "name": "LINK-MG18, RIO DE JANEIRO - RJ"
+  },
+  {
+    "key": "LINK-MG42",
+    "latitude": -22.9035,
+    "longitude": -43.1822,
+    "name": "LINK-MG42, RIO DE JANEIRO - RJ"
+  },
+  {
+    "key": "LINK-MG29",
+    "latitude": -5.7945,
+    "longitude": -35.211,
+    "name": "LINK-MG29, NATAL - RN"
+  },
+  {
+    "key": "LINK-MG72",
+    "latitude": -8.7602,
+    "longitude": -63.9039,
+    "name": "LINK-MG72, PORTO VELHO - RO"
+  },
+  {
+    "key": "LINK-MG11",
+    "latitude": -30.0346,
+    "longitude": -51.2177,
+    "name": "LINK-MG11, PORTO ALEGRE - RS"
+  },
+  {
+    "key": "LINK-MG12",
+    "latitude": -29.1683,
+    "longitude": -51.1799,
+    "name": "LINK-MG12, CAXIAS DO SUL - RS"
+  },
+  {
+    "key": "LINK-MG51",
+    "latitude": -31.7656,
+    "longitude": -52.3423,
+    "name": "LINK-MG51, PELOTAS - RS"
+  },
+  {
+    "key": "LINK-MG54",
+    "latitude": -29.1698,
+    "longitude": -51.5236,
+    "name": "LINK-MG54, BENTO GONÇALVES - RS"
+  },
+  {
+    "key": "LINK-MG55",
+    "latitude": -29.4673,
+    "longitude": -51.9502,
+    "name": "LINK-MG55, LAJEADO - RS"
+  },
+  {
+    "key": "LINK-MG76",
+    "latitude": -29.6899,
+    "longitude": -51.1341,
+    "name": "LINK-MG76, NOVO HAMBURGO - RS"
+  },
+  {
+    "key": "LINK-MG78",
+    "latitude": -29.6839,
+    "longitude": -52.4281,
+    "name": "LINK-MG78, SANTA MARIA - RS"
+  },
+  {
+    "key": "LINK-MG19",
+    "latitude": -27.6082,
+    "longitude": -48.6667,
+    "name": "LINK-MG19, SÃO JOSÉ - SC"
+  },
+  {
+    "key": "LINK-MG31",
+    "latitude": -26.8985,
+    "longitude": -48.6664,
+    "name": "LINK-MG31, ITAJAÍ - SC"
+  },
+  {
+    "key": "LINK-MG44",
+    "latitude": -26.9113,
+    "longitude": -49.082,
+    "name": "LINK-MG44, BLUMENAU - SC"
+  },
+  {
+    "key": "LINK-MG47",
+    "latitude": -26.3044,
+    "longitude": -48.8469,
+    "name": "LINK-MG47, JOINVILLE - SC"
+  },
+  {
+    "key": "LINK-MG64",
+    "latitude": -28.6884,
+    "longitude": -49.3701,
+    "name": "LINK-MG64, CRICIUMA - SC"
+  },
+  {
+    "key": "LINK-MG07",
+    "latitude": -10.9433,
+    "longitude": -37.0717,
+    "name": "LINK-MG07, ARACAJU - SE"
+  },
+  {
+    "key": "LINK-MG30",
+    "latitude": -23.5325,
+    "longitude": -46.7917,
+    "name": "LINK-MG30, OSASCO - SP"
+  },
+  {
+    "key": "LINK-MG58",
+    "latitude": -22.1265,
+    "longitude": -51.3976,
+    "name": "LINK-MG58, PRESIDENTE PRUDENTE - SP"
+  },
+  {
+    "key": "LINK-MG61",
+    "latitude": -23.6889,
+    "longitude": -46.5649,
+    "name": "LINK-MG61, SÃO BERNARDO DO CAMPO - SP"
+  },
+  {
+    "key": "LINK-MG62",
+    "latitude": -23.5463,
+    "longitude": -46.6854,
+    "name": "LINK-MG62, SÃO PAULO - SP"
+  },
+  {
+    "key": "LINK-MG66",
+    "latitude": -23.5444,
+    "longitude": -46.6216,
+    "name": "LINK-MG66, SÃO PAULO - SP"
+  },
+  {
+    "key": "LINK-MG67",
+    "latitude": -23.5613,
+    "longitude": -46.5641,
+    "name": "LINK-MG67, TATUAPÉ - SP"
+  },
+  {
+    "key": "LINK-MG68",
+    "latitude": -20.8162,
+    "longitude": -49.3794,
+    "name": "LINK-MG68, SÃO JOSÉ DO RIO PRETO - SP"
+  },
+  {
+    "key": "LINK-MG69",
+    "latitude": -23.1852,
+    "longitude": -46.8975,
+    "name": "LINK-MG69, JUNDIAÍ - SP"
+  },
+  {
+    "key": "LINK-MG70",
+    "latitude": -23.9543,
+    "longitude": -46.3237,
+    "name": "LINK-MG70, SANTOS - SP"
+  },
+  {
+    "key": "LINK-MG71",
+    "latitude": -23.5042,
+    "longitude": -47.4442,
+    "name": "LINK-MG71, SOROCABA - SP"
+  },
+  {
+    "key": "LINK-MG73",
+    "latitude": -23.5999,
+    "longitude": -46.6665,
+    "name": "LINK-MG73, SÃO PAULO - SP"
+  },
+  {
+    "key": "LINK-MG75",
+    "latitude": -23.1906,
+    "longitude": -46.9177,
+    "name": "LINK-MG75, JUNDIAÍ - SP"
+  },
+  {
+    "key": "LINK-MG79",
+    "latitude": -23.5091,
+    "longitude": -46.6022,
+    "name": "LINK-MG79, SÃO PAULO - SP"
+  },
+  {
+    "key": "LINK-SP01",
+    "latitude": -22.9087,
+    "longitude": -47.0626,
+    "name": "LINK-SP01, CAMPINAS - SP"
+  },
+  {
+    "key": "LINK-MG81",
+    "latitude": -21.1849,
+    "longitude": -47.8016,
+    "name": "LINK-MG81, RIBEIRÃO PRETO - SP"
+  },
+  {
+    "key": "LINK-SP03",
+    "latitude": -23.1808,
+    "longitude": -45.8853,
+    "name": "LINK-SP03, SÃO JOSÉ DOS CAMPOS - SP"
+  },
+  {
+    "key": "LINK-SP04",
+    "latitude": -22.3153,
+    "longitude": -49.0599,
+    "name": "LINK-SP04, BAURU - SP"
+  },
+  {
+    "key": "LINK-MG56",
+    "latitude": -10.2587,
+    "longitude": -48.3318,
+    "name": "LINK-MG56, PALMAS - TO"
+  },
+  {
+    "key": "LINK-MG82",
+    "latitude": -28.2743,
+    "longitude": -52.4006,
+    "name": "LINK-MG82, PASSO FUNDO - RS"
   }
+
+
 ]
